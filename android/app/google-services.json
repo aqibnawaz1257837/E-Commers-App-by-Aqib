@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113475528148",
+    "project_id": "fir-ecommersappusngflutter",
+    "storage_bucket": "fir-ecommersappusngflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113475528148:android:51b0b43884e6efa10da241",
+        "android_client_info": {
+          "package_name": "com.example.aqibecomappuseingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113475528148-kb8bfl52gm8hr7v4p7sjg23t9hphe4sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_hscxEpTv65UFjIeeyZowEf53pV2ZgjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113475528148-kb8bfl52gm8hr7v4p7sjg23t9hphe4sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
